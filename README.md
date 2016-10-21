@@ -26,3 +26,6 @@ Write Ciphertext to Screen or File
 # How to Install
 
 # Authors 
+Edward Millard
+
+#Documentation
