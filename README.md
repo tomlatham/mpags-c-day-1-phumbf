@@ -23,7 +23,12 @@ Vigenere Cipher
 
 Write Ciphertext to Screen or File
 
+TEL: great that you've listed these requirements here
+
 # How to Install
+
+TEL: Need to add the build instructions here
+     It does all build and function correctly - well done.
 
 # Authors 
 Edward Millard
